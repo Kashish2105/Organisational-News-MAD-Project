@@ -1,1 +1,6 @@
 # Organisational-News-MAD-Project
+News App - Android Studio
+This is a simple news app developed during my 2nd semester using XML and JavaScript. It displays two articles:
+Arcanes - Highlights from our college fest.
+1st Semester Result Analysis - Overview of the academic performance.
+The project showcases basic UI design with XML and logic implementation using JavaScript.
